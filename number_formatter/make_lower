@@ -1,3 +1,2 @@
 #!/bin/bash
-val=$(echo $(pbpaste)| tr '[:upper:]' '[:lower:]')
-printf $val
+echo $(pbpaste)| tr '[:upper:]' '[:lower:]'
