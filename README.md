@@ -1,2 +1,2 @@
-# scripts
-assorted scripts
+# Scripts
+Assorted possibly useful scripts
