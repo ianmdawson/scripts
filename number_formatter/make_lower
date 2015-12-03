@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(pbpaste)| tr '[:upper:]' '[:lower:]'
+echo $(pbpaste) | tr '[:upper:]' '[:lower:]'
